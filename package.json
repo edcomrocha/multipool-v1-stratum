@@ -1,6 +1,6 @@
 {
   "name": "multipool-v1-stratum",
-  "version": "0.0.40",
+  "version": "0.0.41",
   "description": "High performance Stratum poolserver in Node.js",
   "main": "./scripts/main.js",
   "keywords": [
