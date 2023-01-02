@@ -1,5 +1,5 @@
 {
-  "name": "foundation-stratum",
+  "name": "multipool-v1-stratum",
   "version": "0.0.40",
   "description": "High performance Stratum poolserver in Node.js",
   "main": "./scripts/main.js",
@@ -13,9 +13,9 @@
     "litecoin",
     "scrypt"
   ],
-  "homepage": "https://github.com/blinkhash/foundation-stratum",
+  "homepage": "https://github.com/edcomrocha/multipool-v1-stratum",
   "bugs": {
-    "url": "https://github.com/blinkhash/foundation-stratum/issues"
+    "url": "https://github.com/edcomrocha/multipool-v1-stratum/issues"
   },
   "license": "GPL-2.0",
   "author": {
@@ -34,13 +34,13 @@
   "contributors": [],
   "repository": {
     "type": "git",
-    "url": "https://github.com/blinkhash/foundation-stratum.git"
+    "url": "https://github.com/edcomrocha/multipool-v1-stratum.git"
   },
   "dependencies": {
     "async": "3.2.2",
     "bchaddrjs": "^0.5.2",
     "bignum": "0.13.1",
-    "foundation-multi-hashing": "file:../foundation-v1-multi-hashing",
+    "foundation-multi-hashing": "file:../multipool-v1-multi-hashing",
     "foundation-utxo-lib": "0.0.2",
     "sha3": "2.1.4"
   },
